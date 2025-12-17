@@ -1,0 +1,4 @@
+Streamlit
+uuid
+qrcode
+gtts
