@@ -1,4 +1,5 @@
 qrcode
-Streamlit
+streamlit
 uuid
 gtts
+
